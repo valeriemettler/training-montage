@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/26tPrcX6EfSj5N0HK/giphy.gif)
 
-My Training Path
+
 Start Date: April 7, 2017
 
 ## JavaScript:
