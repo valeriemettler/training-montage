@@ -1,5 +1,12 @@
 //Lexical Scope
 
+//Lexical Scope is the scope model that JavaScript uses. 
+//Lexing is the first phase of a language complier, which is where lexical scope comes from. Lexical scope is scope that is defined at lexing time (based on where variables and blocks of scope are authored at write time and are mostly set in stone by the the the lexer processes the code).
+
+
+
+//////////////////
+
 // There are two predominant models for how scope works. The first of these is by far the most common, used by the vast majority of programming languages. It's called Lexical Scope, which is the scope model that JavaScript employs.
 
 //Lex-time
