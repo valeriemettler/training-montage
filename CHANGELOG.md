@@ -8,3 +8,4 @@ Date | Time | Topics Covered | Description
 4/25/17 | 2 hours | scope | Researched scope closure in scopeclosure.js
 4/26/17 | 2 hours | hoisting and scope | Researched hoisting and how it relates to lexical scope in hoisting.js
 5/2/17  | 2 hours | mutability and immutability | Researched mutability and immutability in Javascript
+5/3/17  | 2 hours | Angular4 | Watched an Angular4 tutorial
